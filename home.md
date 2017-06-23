@@ -1,6 +1,6 @@
 # Home page
 
-This is a home page
+This is the excellent and shiny home page
 
 It is great
 many people
